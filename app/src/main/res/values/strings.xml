@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dogs Breads</string>
+    <string name="affenpinscher">Affenpinscher</string>
+    <string name="affenpincher_desc">Description for Affenpinscher.</string>
+    <string name="afghan_Hound">Afghan Hound</string>
+    <string name="afghan_Hound_des">Description for Afghan Hound.</string>
+    <string name="airedale_Terrier">Airedale Terrier</string>
+    <string name="airedale_Terrie_desc">Description for Airedale Terrier.</string>
+    <string name="Akita">Akita</string>
+    <string name="akita_desc">Description for Akita.</string>
+    <string name="Alaskan_Malamute">Alaskan Malamute</string>
+    <string name="Alaskan_Malamute_desc">Description for Alaskan Malamute.</string>
+    <string name="Alaskan_Klee_Kai">Alaskan Klee Kai</string>
+    <string name="Alaskan_Klee_Kai_desc">Description for Alaskan Klee Kai.</string>
+    <string name="American_Bulldog">American Bulldog</string>
+    <string name="American_Bulldog_desc">Description for American Bulldog.</string>
+    <string name="Woof">Woof</string>
+    <!-- Add more strings for dog titles and descriptions as needed -->
+</resources>
